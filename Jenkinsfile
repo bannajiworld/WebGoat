@@ -8,7 +8,7 @@ pipeline {
         UPTOKEN = "8b1b84d4-3ed9-40de-aac7-de850ca254d3"
         APPLICATION_NAME = "Simple Maven Project"
         VERSION_ID = "10001"
-        BUILD_TOOL = "mvn"
+        BUILD_TOOL = "/home/internal/jenkins/apache-maven-3.9.9/bin/mvn"
         BUILD_FILE = "pom.xml"
     }
 
